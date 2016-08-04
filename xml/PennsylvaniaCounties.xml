@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<data>
+
+<mapSettings 
+mapWidth = "960"
+mapHeight = "420"
+
+offColor = "880A23"
+strokeColor = "D3C2A0"
+abbreviationColor = "D3C2A0"
+
+useSideText = "true"
+textAreaWidth = "960"
+textAreaPadding = "5"
+/>
+
+<defaultSideText>
+  <![CDATA[<img src="/img/admissions/counselorMap/intro_pa.jpg"/>]]>
+</defaultSideText>
+
+<stateData useSideText = "true" stateName="Adams" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Adams.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Allegheny" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Allegheny.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Armstrong" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Armstrong.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Bedford" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Bedford.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Berks" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Berks.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="Bever" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Beaver.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+
+<stateData stateName="Blair"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Blair.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Bradford" stateMode = "ON"  initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Bradford.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="Bucks" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Bucks.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+
+<stateData stateName="Butler" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Butler.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+<stateData stateName="Cambria"  stateMode = "ON"  initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Cambria.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Cameron"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Cameron.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Carbon"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Carbon.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Centre" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Centre.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Chester"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Chester.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Clarion" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Clarion.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Clearfield" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Clearfield.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+
+
+<stateData stateName="Clinton" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[ <img src="/img/admissions/counselorMap/banners/PA Counties/Clinton.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="Columbia" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Columbia.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="Crawford" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Crawford.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Cumberland" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Cumberland.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Dauphin" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Dauphin.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Delaware"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Delaware.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="Elk" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Elk.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Erie"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Erie.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Fayette"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Fayette.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Forest"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Forest.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Franklin"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Franklin.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Fulton"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Fulton.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Greene"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Greene.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Huntingdon"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Huntingdon.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Indiana"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Indiana.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Jefferson" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Jefferson.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Juaniata"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Juniata.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+
+<stateData stateName="Lackawanna"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[
+<img src="/img/admissions/counselorMap/banners/PA Counties/Lackawanna.jpg"/>
+<img style="margin-top: -5px; " src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Lancaster"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[
+<img src="/img/admissions/counselorMap/banners/PA Counties/Lancaster.jpg"/>
+<img style="margin-top: -5px; " src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Lawrence"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Lawrence.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Lebanon" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Lebanon.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Lehigh" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Lehigh.jpg"/>
+
+<img style="margin-top: -10px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Luzerne" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Luzerne.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="Lycoming"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Lycoming.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="McKean"   stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/McKean.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Mercer"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Mercer.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Mifflin" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[ <img src="/img/admissions/counselorMap/banners/PA Counties/Mifflin.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Monroe"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Monroe.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Montgomery" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Montgomery.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Montour" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Montour.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="North Umberland" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/NorthUmberland.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="Northamption"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A" >
+<![CDATA[
+<img src="/img/admissions/counselorMap/banners/PA Counties/Northampton.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Perry" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Perry.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Philadelphia" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Philadelphia.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Pike" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Pike.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Potter" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Potter.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Schuylkill" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Schuylkill.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Snyder" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Snyder.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Somerset" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Somerset.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Sullivan" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Sullivan.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Susquehanna" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Susquehanna.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Tioga" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Tioga.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Union" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Union.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Venango" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Venango.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Warren" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Warren.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Washington" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Washington.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Wayne" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Wayne.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Westmoreland" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Westmoreland.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Wyoming" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/Wyoming.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="York" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/PA Counties/York.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Map" externalUrl = "true"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[http://www.wju.edu/admissions/CounselorMap/representatives.asp]]>
+</stateData>
+
+<stateData stateName="backToAdmiss" externalUrl = "true"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[http://www.wju.edu/admissions/default.asp]]>
+</stateData>
+</data>

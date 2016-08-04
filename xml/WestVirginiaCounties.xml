@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<data>
+
+<mapSettings 
+mapWidth = "960"
+mapHeight = "420"
+
+offColor = "880A23"
+strokeColor = "D3C2A0"
+abbreviationColor = "D3C2A0"
+
+useSideText = "true"
+textAreaWidth = "960"
+textAreaPadding = "5"
+/>
+
+<defaultSideText>
+  <![CDATA[<img src="/img/admissions/counselorMap/intro_wv.jpg"/>]]>
+</defaultSideText>
+
+<stateData useSideText = "true" stateName="Barbour" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Barbour.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Berkeley" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Berkeley.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Boone" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Boone.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Braxton" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Braxton.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Brooke" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Brooke.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Cabell" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Cabell.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+
+<stateData stateName="Calhoun"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Calhoun.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Clay" stateMode = "ON"  initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Clay.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Doddridge" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Doddridge.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+
+<stateData stateName="Fayette" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Fayette.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+<stateData stateName="Gilmer"  stateMode = "ON"  initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Gilmer.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Grant"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Grant.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Greenbrier"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Greenbrier.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Hampshire" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Hampshire.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Hancock"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Hancock.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Hardy" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Hardy.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Harrison" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Harrison.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Jackson" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Jackson.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Jefferson" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[ <img src="/img/admissions/counselorMap/banners/WV Counties/Jefferson.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Kanawha" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Kanawha.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Lewis" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Lewis.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Lincoln" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Lincoln.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Logan" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Logan.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Marion"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Marion.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Marshall" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Marshall.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Mason"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Mason.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="McDowell"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/McDowell.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Mercer"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Mercer.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Mineral"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Mineral.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Mingo"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Mingo.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Mongolia"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Monogalia.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Monroe"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Monroe.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Morgan"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Morgan.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Nicholas" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Nicholas.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Ohio"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Ohio.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+
+<stateData stateName="Pendleton"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Pendleton.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Pleasant"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Pleasants.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Pocahontas" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Pocahontas.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Preston" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Preston.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+
+<stateData stateName="Putnam" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Putnam.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Raleigh"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Raleigh.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Randolph"   stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Randolph.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Ritchie"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Ritchie.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Roane" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[ <img src="/img/admissions/counselorMap/banners/WV Counties/Roane.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Summers"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Summers.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Taylor" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Taylor.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Tucker" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Tucker.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Tyler" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Tyler.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Upshur"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Upshur.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Wayne" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Wayne.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Webster" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Webster.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Wetzel" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Wetzel.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Wirt" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Wirt.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Wood" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Wood.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Wyoming" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/WV Counties/Wyoming.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Map" externalUrl = "true"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[http://www.wju.edu/admissions/CounselorMap/representatives.asp]]>
+</stateData>
+
+<stateData stateName="backToAdmiss" externalUrl = "true"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[http://www.wju.edu/admissions/default.asp]]>
+</stateData>
+</data>

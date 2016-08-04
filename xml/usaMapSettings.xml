@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<data>
+
+<mapSettings 
+mapWidth = "960"
+mapHeight = "420"
+
+offColor = "880A23"
+strokeColor = "D3C2A0"
+abbreviationColor = "D3C2A0"
+
+useSideText = "true"
+textAreaWidth = "960"
+textAreaPadding = "5"
+/>
+
+<defaultSideText>
+  <![CDATA[<img src="/img/intro.jpg"/>]]>
+</defaultSideText>
+
+<stateData useSideText = "true" stateName="Alabama" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Alabama.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Alaska" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Alaska.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>]]>-->
+</stateData>
+
+<stateData stateName="Arizona" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Arizona.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>]]>-->
+</stateData>
+
+<stateData stateName="Arkansas" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Arkansas.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="California" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/California.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="Colorado" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Colorado.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+
+<stateData stateName="Connecticut"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Connecticut.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Delaware" stateMode = "ON"  initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Delaware.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="District of Columbia" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/DC.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+
+<stateData stateName="Florida" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Florida.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+<stateData stateName="Georgia"  stateMode = "ON"  initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Georgia.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Hawaii"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Hawaii.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>]]>-->
+</stateData>
+
+<stateData stateName="Idaho"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Idaho.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>]]>-->
+</stateData>
+
+<stateData stateName="Illinois" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Illinois.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Indiana"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Indiana.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>]]>-->
+</stateData>
+
+<stateData stateName="Iowa" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Iowa.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Kansas" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Kansas.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>]]>-->
+</stateData>
+
+<stateData stateName="Kentucky" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Kentucky.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>]]>-->
+</stateData>
+
+<stateData stateName="Louisiana" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[ <img src="/img/banners/Louisiana.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="Maine" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Maine.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="Maryland" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Maryland.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Massachusetts" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Massachusetts.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Michigan" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Michigan.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Minnesota"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Minnesota.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="Mississippi" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Mississippi.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="Missouri"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Missouri.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>]]>-->
+</stateData>
+
+<stateData stateName="Montana"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Montana.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="Nebraska"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Nebraska.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>]]>-->
+</stateData>
+
+<stateData stateName="Nevada"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Nevada.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>]]>-->
+</stateData>
+
+<stateData stateName="New Hampshire"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/NewHampshire.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="New Jersey"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/NewJersey.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="New Mexico"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/NewMexico.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>]]>-->
+</stateData>
+
+<stateData stateName="New York"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/NewYork.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="North Carolina" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/NCarolina.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="North Dakota"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/NDakota.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>]]>-->
+</stateData>
+
+
+<stateData stateName="Ohio" externalUrl = "true" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[http://www.wju.edu/representatives_ohio.asp]]>
+</stateData>
+
+<stateData stateName="Oklahoma"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Oklahoma.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Oregon" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Oregon.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Pennsylvania" externalUrl = "true" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[http://www.wju.edu/representatives_pa.asp]]>
+</stateData>
+
+
+<stateData stateName="Rhode Island" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/RhodeIsland.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="South Carolina"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/SCarolina.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="South Dakota"   stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/SDakota.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>]]>-->
+</stateData>
+
+<stateData stateName="Tennessee"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Tennessee.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="Texas" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[ <img src="/img/banners/Texas.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Utah"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Utah.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>]]>-->
+</stateData>
+
+<stateData stateName="Vermont" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Vermont.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Virginia" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Virginia.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Washington" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Washington.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="West Virginia" externalUrl = "true" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[http://www.wju.edu/representatives_wv.asp]]>
+</stateData>
+
+<stateData stateName="Wisconsin" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Wisconsin.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Wyoming" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Wyoming.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>]]>-->
+</stateData>
+
+<stateData stateName="International" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/International.jpg"/>
+<!--<<img style="margin-top: -5px;" src="/img/Counselor/Nkama.jpg"/>]]>-->
+</stateData>
+
+<stateData stateName="Transfer" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/Transfer.jpg"/>
+<img style="margin-top: -5px;" src="/img/Counselor/board.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Additional" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/banners/staff.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/Counselor/Place-Holder.jpg"/>-->
+<img  src="/img/Counselor/Daniel.jpg"/>
+<img  src="/img/Counselor/George.jpg"/>
+<img  src="/img/Counselor/Summers.jpg"/>]]>
+</stateData>
+
+<stateData stateName="backToAdmiss" externalUrl = "true" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[http://www.wju.edu/admissions/default.asp]]>
+</stateData>
+</data>

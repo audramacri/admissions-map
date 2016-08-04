@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<data>
+
+<mapSettings 
+mapWidth = "960"
+mapHeight = "420"
+
+offColor = "880A23"
+strokeColor = "D3C2A0"
+abbreviationColor = "D3C2A0"
+
+useSideText = "true"
+textAreaWidth = "960"
+textAreaPadding = "5"
+/>
+
+<defaultSideText>
+  <![CDATA[<img src="/img/admissions/counselorMap/intro_OH.jpg"/>]]>
+</defaultSideText>
+
+<stateData useSideText = "true" stateName="Adams" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Adams.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Allen" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Allen.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Ashland" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Ashland.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Ashtabula" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Ashtabula.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="Athens" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Athens.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Auglaize" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Auglaize.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+
+<stateData stateName="Belmont"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Belmont.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Brown" stateMode = "ON"  initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Brown.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Butler" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Butler.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+
+<stateData stateName="Carroll" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Carroll.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+<stateData stateName="Champaign"  stateMode = "ON"  initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Champaign.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Clark"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Clark.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Clemont"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Clermont.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Clinton" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Clinton.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Cochocton"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Coshocton.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Columbiana" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Columbiana.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Crawford" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Crawford.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Cuyahoga" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Cuyahoga.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Darke" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[ <img src="/img/admissions/counselorMap/banners/OH Counties/Darke.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Defiance" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Defiance.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="Delaware" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Delaware.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Erie" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Erie.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Fairfield" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Fairfield.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Fayette"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Fayette.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Franklin" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Franklin.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Fulton"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Fulton.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Gallia"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Gallia.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Geauga"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Geauga.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Greene"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Greene.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Guernsey"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Guernsey.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Hamilton"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Hamiton.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Hancock"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Hancock.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Hardin"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Hardin.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="Harrison" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Harrison.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Henry"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Henry.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+
+<stateData stateName="Highland"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Highland.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Hocking"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Hocking.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Holmes" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Holmes.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Huron"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Huron.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+
+<stateData stateName="Jackson" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Jackson.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+</stateData>
+
+<stateData stateName="Jefferson"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Jefferson.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="Knox"   stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Knox.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Lake"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Lake.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="Lawrence" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[ <img src="/img/admissions/counselorMap/banners/OH Counties/Lawrence.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Licking"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Licking.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Logan" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Logan.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+]]>
+</stateData>
+
+<stateData stateName="Lorain" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Lorain.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Lucas" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Lucas.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+
+]]>
+</stateData>
+
+<stateData stateName="Madison"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Madison.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->
+
+]]>
+
+</stateData>
+
+<stateData stateName="Mahoning" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Mahoning.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+<stateData stateName="Marion" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Marion.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Medina" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Medina.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Meigs" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Meigs.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Mercer" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Mercer.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>
+]]>
+</stateData>
+
+
+
+<stateData stateName="Miami" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Miami.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+
+<stateData stateName="Monroe" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Monroe.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+
+<stateData stateName="Montgomery" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Montgomery.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+
+<stateData stateName="Morgan" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Morgan.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Morrow" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Morrow.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Muskingum" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Muskingum.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Noble" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Noble.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Ottawa" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Ottawa.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Paulding" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Paulding.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Perry" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Perry.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Pickaway" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Pickaway.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Pike" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Pike.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+
+<stateData stateName="Portage" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Portage.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Preble" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Preble.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Putnam" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Putnam.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Richland" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Richland.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Ross" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Ross.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Sandusky" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Sandusky.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Scioto" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Scioto.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Seneca" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Seneca.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Shelby" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Shelby.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Stark" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Stark.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Summit" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Summit.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Trumbull" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Trumbul.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Tuscarawas" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Tuscarawas.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Union" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Union.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Vanwert" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Van Wert.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Vinton" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Vinton.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Warren" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Warren.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Washington" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Washington.jpg"/>
+<!--<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>-->]]>
+</stateData>
+
+<stateData stateName="Wayne" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Wayne.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Williams" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Williams.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Wood" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Wood.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Wyandot" stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[<img src="/img/admissions/counselorMap/banners/OH Counties/Wyandot.jpg"/>
+<img style="margin-top: -5px;" src="/img/admissions/counselorMap/Counselor/Place-Holder.jpg"/>]]>
+</stateData>
+
+<stateData stateName="Map" externalUrl = "true"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[http://www.wju.edu/admissions/CounselorMap/representatives.asp]]>
+</stateData>
+
+<stateData stateName="backToAdmiss" externalUrl = "true"  stateMode = "ON" initialStateColor= "880A23" stateOverColor = "C6AF82" stateSelectedColor = "B3975A">
+<![CDATA[http://www.wju.edu/admissions/default.asp]]>
+</stateData>
+</data>
