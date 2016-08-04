@@ -2,18 +2,34 @@
 -----------------------------------------------*/
 
 body {
-background:#D3C2A0;}
+	background:#D3C2A0;
+}
 
 #container {
-margin:20px auto;
-width: 1000px;
+	margin:20px auto;
+	width: 1000px;
 }
 
 a img {
-border:none;
+	border:none;
 }
 
-h1, h2, h3, h4, h5, h6{ font-weight:normal; }
-	h1{ font-size:22px; line-height:32px; margin-bottom: 10px;  }
-	h2 {font-size: 20px; margin-top: 5px;}
-	p, ul{margin-bottom:10px; font-size:15px;}
+h1, h2, h3, h4, h5, h6{
+	font-weight:normal;
+}
+
+h1{
+	font-size:22px;
+	line-height:32px;
+	margin-bottom: 10px;
+}
+
+h2 {
+	font-size: 20px;
+	margin-top: 5px;
+}
+
+p, ul{
+	margin-bottom:10px; 
+	font-size:15px;
+}
