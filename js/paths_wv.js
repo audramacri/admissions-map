@@ -1,3 +1,5 @@
+// This file is used to set the variable SVG paths for the WV counties
+
 var usamappaths = {
 	barbour: {
 		name: 'Barbour',
