@@ -1,3 +1,5 @@
+//This file sets the variable names for Ohio Counties
+
 $(function () {
 
     var stateNames = new Array();
@@ -106,9 +108,8 @@ $(function () {
             },
             arr = new Array();
 
-
+// Set Variable names for ohio counties
         var usa = {};
-
         usa.adams = r.set();
         usa.allen = r.set();
         usa.ashland = r.set();
@@ -160,45 +161,45 @@ $(function () {
         usa.madison = r.set();
         usa.mahoning = r.set();
         usa.marion = r.set();
-		usa.medina = r.set();
-		usa.meigs = r.set();
-		usa.mercer = r.set();
-		usa.miami = r.set();
-		usa.monroe = r.set();
-		usa.montgomery = r.set();
-		usa.morgan = r.set();
-		usa.morrow = r.set();
-		usa.muskingum = r.set();
-		usa.noble = r.set();
-		usa.ottawa = r.set();
-		usa.paulding = r.set();
-		usa.perry = r.set();
-		usa.pickaway = r.set();
-		usa.pike = r.set();
-		usa.portage = r.set();
-		usa.preble = r.set();
-		usa.putnam = r.set();
-		usa.richland = r.set();
-		usa.ross = r.set();
-		usa.sandusky = r.set();
-		usa.scioto = r.set();
-		usa.seneca = r.set();
-		usa.shelby = r.set();
-		usa.stark = r.set();
-		usa.summit = r.set();
-		usa.trumbull = r.set();
-		usa.tuscarawas = r.set();
-		usa.union = r.set();
-		usa.vanwert = r.set();
-		usa.vinton = r.set();
-		usa.warren = r.set();
-		usa.washington = r.set();
-		usa.wayne = r.set();
-		usa.williams = r.set();
-		usa.wood = r.set();
-		usa.wyandot = r.set();
-		usa.map = r.set();
-		usa.backToAdmiss = r.set();
+	usa.medina = r.set();
+	usa.meigs = r.set();
+	usa.mercer = r.set();
+	usa.miami = r.set();
+	usa.monroe = r.set();
+	usa.montgomery = r.set();
+	usa.morgan = r.set();
+	usa.morrow = r.set();
+	usa.muskingum = r.set();
+	usa.noble = r.set();
+	usa.ottawa = r.set();
+	usa.paulding = r.set();
+	usa.perry = r.set();
+	usa.pickaway = r.set();
+	usa.pike = r.set();
+	usa.portage = r.set();
+	usa.preble = r.set();
+	usa.putnam = r.set();
+	usa.richland = r.set();
+	usa.ross = r.set();
+	usa.sandusky = r.set();
+	usa.scioto = r.set();
+	usa.seneca = r.set();
+	usa.shelby = r.set();
+	usa.stark = r.set();
+	usa.summit = r.set();
+	usa.trumbull = r.set();
+	usa.tuscarawas = r.set();
+	usa.union = r.set();
+	usa.vanwert = r.set();
+	usa.vinton = r.set();
+	usa.warren = r.set();
+	usa.washington = r.set();
+	usa.wayne = r.set();
+	usa.williams = r.set();
+	usa.wood = r.set();
+	usa.wyandot = r.set();
+	usa.map = r.set();
+	usa.backToAdmiss = r.set();
 	
 
         var boxattrs = {
