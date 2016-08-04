@@ -3,10 +3,6 @@
 
 An interactive map of the United States to allowing students to find who their Admissions Counselor is and learn additional information about them. The states of Ohio, West Virginia and Pennsylvania are displayed as individual counties. Originally downloaded from <a href="https://codecanyon.net/item/interactive-svg-usa-map/1021095">Code Canyon</a> and modified for projects needs.
 
-## Code Example
-
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
-
 ## Motivation
 
 Create an interactive way for prospective students to find their Admissions Counselor based on location. A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
