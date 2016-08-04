@@ -1,3 +1,5 @@
+//This file sets the variable names for WV Counties
+
 $(function () {
 
     var stateNames = new Array();
@@ -106,9 +108,8 @@ $(function () {
             },
             arr = new Array();
 
-
+// Set variable names for WV Counties
         var usa = {};
-
         usa.barbour = r.set();
         usa.berkeley = r.set();
         usa.boone = r.set();
@@ -160,12 +161,12 @@ $(function () {
         usa.upshur = r.set();
         usa.wayne = r.set();
         usa.webster = r.set();
-		usa.wetzel = r.set();
-		usa.wirt = r.set();
-		usa.wood = r.set();
-		usa.wyoming = r.set();
-		usa.map = r.set();
-		usa.backToAdmiss = r.set();
+	usa.wetzel = r.set();
+	usa.wirt = r.set();
+	usa.wood = r.set();
+	usa.wyoming = r.set();
+	usa.map = r.set();
+	usa.backToAdmiss = r.set();
 
         var boxattrs = {
             'cursor': 'pointer',
