@@ -1,4 +1,4 @@
-# admissions-map
+# Interactive USA Map
 ## Synopsis
 
 An interactive map of the United States to allowing students to find who their Admissions Counselor is and learn additional information about them. The states of Ohio, West Virginia and Pennsylvania are displayed as individual counties.
