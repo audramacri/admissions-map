@@ -1,3 +1,5 @@
+//This file sets the variable names for PA Counties
+
 $(function () {
 
     var stateNames = new Array();
@@ -106,9 +108,8 @@ $(function () {
             },
             arr = new Array();
 
-
+// Set variables for PA counties
         var usa = {};
-
         usa.adams = r.set();
         usa.allegheny = r.set();
         usa.armstrong = r.set();
@@ -143,7 +144,7 @@ $(function () {
         usa.indiana = r.set();
         usa.jefferson = r.set();
         usa.juaniata = r.set();
-		usa.lackawanna = r.set();
+	usa.lackawanna = r.set();
         usa.lancaster = r.set();
         usa.lawrence = r.set();
         usa.lebanon = r.set();
@@ -161,23 +162,23 @@ $(function () {
         usa.perry = r.set();
         usa.philadelphia = r.set();
         usa.pike = r.set();
-		usa.potter = r.set();
-		usa.schuylkill = r.set();
-		usa.snyder = r.set();
-		usa.somerset = r.set();
-		usa.sullivan = r.set();
-		usa.susquehanna = r.set();
-		usa.tioga = r.set();
-		usa.union = r.set();
-		usa.venango = r.set();
-		usa.warren = r.set();
-		usa.washington = r.set();
-		usa.wayne = r.set();
-		usa.westmoreland = r.set();
-		usa.wyoming = r.set();
-		usa.york = r.set();
-		usa.map = r.set();
-		usa.backToAdmiss = r.set();
+	usa.potter = r.set();
+	usa.schuylkill = r.set();
+	usa.snyder = r.set();
+	usa.somerset = r.set();
+	usa.sullivan = r.set();
+	usa.susquehanna = r.set();
+	usa.tioga = r.set();
+	usa.union = r.set();
+	usa.venango = r.set();
+	usa.warren = r.set();
+	usa.washington = r.set();
+	usa.wayne = r.set();
+	usa.westmoreland = r.set();
+	usa.wyoming = r.set();
+	usa.york = r.set();
+	usa.map = r.set();
+	usa.backToAdmiss = r.set();
 		
 
         var boxattrs = {
