@@ -11,16 +11,16 @@ Create an interactive way for prospective students to find their Admissions Coun
 
 To add the map to your website, open the index.html for the version you have chosen, and start by importing the fonts.css and map.css withing the head tag of your site:
 
-<link href="/jscripts/counselorMap/css/style.css" rel="stylesheet" type="text/css" />
-<link href="/jscripts/counselorMap/css/map.css" rel="stylesheet" type="text/css" />
+    <link href="/jscripts/counselorMap/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="/jscripts/counselorMap/css/map.css" rel="stylesheet" type="text/css" />
 
 Then import all the js files within the head tag as well:
 
-<script src="/jscripts/counselorMap/js/jquery.js" type="text/javascript"></script>
-<script src="/jscripts/counselorMap/js/raphael.js" type="text/javascript"></script>
-<script src="/jscripts/counselorMap/js/scale.raphael.js" type="text/javascript"></script>
-<script src="/jscripts/counselorMap/js/paths.js" type="text/javascript"></script>
-<script src="/jscripts/counselorMap/js/init.js" type="text/javascript"></script>
+    <script src="/jscripts/counselorMap/js/jquery.js" type="text/javascript"></script>
+    <script src="/jscripts/counselorMap/js/raphael.js" type="text/javascript"></script>
+    <script src="/jscripts/counselorMap/js/scale.raphael.js" type="text/javascript"></script>
+    <script src="/jscripts/counselorMap/js/paths.js" type="text/javascript"></script>
+    <script src="/jscripts/counselorMap/js/init.js" type="text/javascript"></script>
 
 Make sure to also copy and paste all these files in your website directory keeping the same structure relative to the page you want to load the map into.
 
