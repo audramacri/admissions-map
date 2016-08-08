@@ -32,8 +32,7 @@ Finally copy/paste the mapWrapper div and its content where you want to include 
                 <div id="map"></div>
                 <div id="text"></div>
         </div>
-        
-    </div>
+ 
 
 
 ## License
